@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52692da3217030f4db2d34c4b4ca2d0f, type: 3}
+  m_Name: Shark
+  m_EditorClassIdentifier: 
+  costPointInWave: 10
+  nameEnnemy:
+  - Pillard-abordeur
+  health: 50
+  sizeSpotAttack: 2
+  valuePrioSpot: 100
+  radiusEnnemy: 6
+  type: 0
+  typeFight: 0
+  range: 2.5
+  attackSpeed: 0.33
+  damage: 4
+  areaEffect: 2
+  effects: 
+  speedMoveInWater: 3
+  speedMoveOnRaft: 2
+  canJumpOnRaft: 0
+  offsetYSwimming: -0.85
+  offsetYHPBar: 200
+  nbAttack: 2

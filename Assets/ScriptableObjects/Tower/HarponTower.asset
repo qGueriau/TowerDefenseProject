@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ba927a4fda4b6b4cbc0e5872440f596, type: 3}
+  m_Name: HarponTower
+  m_EditorClassIdentifier: 
+  nameTower:
+  - Harpon Tower
+  cost: 3
+  type: 2
+  range: 20
+  rangeUI: 2
+  attackSpeed: 0.5
+  attackSpeedUI: 1
+  damage: 5
+  damageUI: 2
+  areaEffectRadius: 0
+  areaEffectRatioDamageMax: 0
+  effects: 
+  towerGO:
+  - {fileID: 3005617766991915960, guid: ccd07fa21e0c00b4498ed419ca779119, type: 3}
+  projectileGo:
+  - {fileID: 5648485836338849500, guid: fc56ed8a3b1d0e34fbdc7d97656f3f66, type: 3}
+  hasFXEndProjectile: 0
+  FXEndProjectileGo: []
+  timeEndProjectileGo: []
+  offsetY: 0.61
+  speedProjectile: 10
+  turnOnlyY: 1
+  orientationCorrection: 1
+  shouldLookAtTarget: 1
+  projectileGravity: 1
+  shouldAlignWithEnnemyToShoot: 1
+  speedRotation: 180
+  parabolicShootParameter: 0
