@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Aa]ssets/3DModels/
+/[Aa]ssets/Animation/
+/[Aa]ssets/import/
+/[Aa]ssets/Input/
+/[Aa]ssets/Materials/
+/[Aa]ssets/Prefab/
+/[Aa]ssets/Prefab/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
